@@ -35,7 +35,7 @@
 ## Docker Architecture
 
 Docker is like Client -> Server Architecture
-![Client -> Server Architecture](Cimages/lientServer.png)
+![Client -> Server Architecture](images/ClientServer.png)
 
 
 Docker Daemon runs from docker host (a vm that runs linux)
